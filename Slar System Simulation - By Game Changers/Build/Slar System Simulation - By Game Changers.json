@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Solar System Simulation - By Game Changers",
+"dataUrl": "Slar System Simulation - By Game Changers.data.unityweb",
+"asmCodeUrl": "Slar System Simulation - By Game Changers.asm.code.unityweb",
+"asmMemoryUrl": "Slar System Simulation - By Game Changers.asm.memory.unityweb",
+"asmFrameworkUrl": "Slar System Simulation - By Game Changers.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}

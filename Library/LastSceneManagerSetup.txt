@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Solar System Simulation - By Game Changers.unity
+  isLoaded: 1
+  isActive: 1
